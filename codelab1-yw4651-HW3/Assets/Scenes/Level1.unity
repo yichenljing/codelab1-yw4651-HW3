@@ -472,7 +472,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04cf42ac29c094f90b1b032656009b24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentTime: 0
   startingTime: 30
   countdownText: {fileID: 2144090741}
 --- !u!1 &842264264
@@ -900,6 +899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 567080f0088714d6090d995cdf55b746, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ScoreText: {fileID: 0}
 --- !u!4 &1167767693
 Transform:
   m_ObjectHideFlags: 0
@@ -1627,7 +1627,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   force: 8
-  score: 0
 --- !u!4 &2088346389
 Transform:
   m_ObjectHideFlags: 0
